@@ -5,3 +5,5 @@
 Python, aiogram, postgreSQL
 
 Проект находится на ветке develop
+
+ТЗ в папке materials
