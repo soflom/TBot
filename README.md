@@ -4,4 +4,6 @@
 
 Python, aiogram, postgreSQL
 
+Проект на ветке develop
+
 ТЗ в папке materials
