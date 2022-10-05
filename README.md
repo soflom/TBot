@@ -4,7 +4,7 @@
 
 Python, aiogram, postgreSQL
 
-Проект на ветке develop
+На данной ветке присутствует архив с проектом - prototype. Сам проект находится на ветке develop
 
 ТЗ в папке materials
 
